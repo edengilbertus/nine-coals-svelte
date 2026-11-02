@@ -1,0 +1,149 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/home-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/menu",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/menu-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/story",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/story-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/gallery",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/gallery-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/events",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/events-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/contact-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/reservations",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/reservations-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/order",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/order-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/credits",
+      "width": 1440,
+      "status": 200,
+      "file": "docs/screenshots/credits-1440.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/home-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/menu",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/menu-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/story",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/story-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/gallery",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/gallery-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/events",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/events-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/contact-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/reservations",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/reservations-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/order",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/order-390.png",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/credits",
+      "width": 390,
+      "status": 200,
+      "file": "docs/screenshots/credits-390.png",
+      "overflow": false,
+      "brokenImages": []
+    }
+  ],
+  "errors": []
+}

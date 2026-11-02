@@ -1,0 +1,14 @@
+node_modules/
+.svelte-kit/
+build/
+.DS_Store
+.env
+.env.*
+!.env.example
+test-results/
+playwright-report/
+.superpowers/
+.agents/
+coverage/
+static/fonts/clash-display-*.woff2
+static/fonts/general-sans-*.woff2

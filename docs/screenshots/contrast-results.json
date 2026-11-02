@@ -1,0 +1,422 @@
+[
+  {
+    "capture": "contrast-1440-0",
+    "text": "NINE",
+    "backgroundRatio": 4.95,
+    "strokeRatio": 15.69,
+    "minimumRatio": 15.69,
+    "threshold": 3,
+    "pixels": 66990,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-0",
+    "text": "COALS",
+    "backgroundRatio": 1.0,
+    "strokeRatio": 15.69,
+    "minimumRatio": 15.69,
+    "threshold": 3,
+    "pixels": 85253,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-0",
+    "text": "No fire on Mondays. Lit again tomorrow at 15:00.",
+    "backgroundRatio": 10.3,
+    "strokeRatio": null,
+    "minimumRatio": 10.3,
+    "threshold": 4.5,
+    "pixels": 203,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-0",
+    "text": "An open-fire grill in Johannesburg.",
+    "backgroundRatio": 4.39,
+    "strokeRatio": null,
+    "minimumRatio": 4.39,
+    "threshold": 3,
+    "pixels": 1590,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-0",
+    "text": "One wood fire,",
+    "backgroundRatio": 3.58,
+    "strokeRatio": null,
+    "minimumRatio": 3.58,
+    "threshold": 3,
+    "pixels": 705,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-0",
+    "text": "raked into nine beds.",
+    "backgroundRatio": 3.38,
+    "strokeRatio": null,
+    "minimumRatio": 3.38,
+    "threshold": 3,
+    "pixels": 709,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-1",
+    "text": "15:00",
+    "backgroundRatio": 15.79,
+    "strokeRatio": null,
+    "minimumRatio": 15.79,
+    "threshold": 3,
+    "pixels": 28022,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-1",
+    "text": "The match",
+    "backgroundRatio": 11.18,
+    "strokeRatio": null,
+    "minimumRatio": 11.18,
+    "threshold": 3,
+    "pixels": 901,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-1",
+    "text": "One match goes into a stack of sekelbos and kameeldoring. Nothing here is cooked on gas.",
+    "backgroundRatio": 12.25,
+    "strokeRatio": null,
+    "minimumRatio": 12.25,
+    "threshold": 4.5,
+    "pixels": 629,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-2",
+    "text": "16:30",
+    "backgroundRatio": 12.19,
+    "strokeRatio": null,
+    "minimumRatio": 12.19,
+    "threshold": 3,
+    "pixels": 28299,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-2",
+    "text": "The coals settle",
+    "backgroundRatio": 12.34,
+    "strokeRatio": null,
+    "minimumRatio": 12.34,
+    "threshold": 3,
+    "pixels": 1362,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-2",
+    "text": "Ninety minutes of waiting while the flames drop and the wood turns to coal, white at the edges.",
+    "backgroundRatio": 12.74,
+    "strokeRatio": null,
+    "minimumRatio": 12.74,
+    "threshold": 4.5,
+    "pixels": 712,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-3",
+    "text": "17:30",
+    "backgroundRatio": 10.3,
+    "strokeRatio": null,
+    "minimumRatio": 10.3,
+    "threshold": 3,
+    "pixels": 24936,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-3",
+    "text": "Nine beds",
+    "backgroundRatio": 14.63,
+    "strokeRatio": null,
+    "minimumRatio": 14.63,
+    "threshold": 3,
+    "pixels": 930,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-3",
+    "text": "The pitmaster rakes the fire into nine beds, from white-hot under the steaks to a low glow under the desserts.",
+    "backgroundRatio": 14.63,
+    "strokeRatio": null,
+    "minimumRatio": 14.63,
+    "threshold": 4.5,
+    "pixels": 730,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-4",
+    "text": "19:00",
+    "backgroundRatio": 7.97,
+    "strokeRatio": null,
+    "minimumRatio": 7.97,
+    "threshold": 3,
+    "pixels": 28399,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-4",
+    "text": "Service",
+    "backgroundRatio": 11.08,
+    "strokeRatio": null,
+    "minimumRatio": 11.08,
+    "threshold": 3,
+    "pixels": 694,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-4",
+    "text": "The grill at full roar. Every dish goes on the bed that suits it, and comes off when the coals say so.",
+    "backgroundRatio": 12.98,
+    "strokeRatio": null,
+    "minimumRatio": 12.98,
+    "threshold": 4.5,
+    "pixels": 660,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-5",
+    "text": "23:30",
+    "backgroundRatio": 12.24,
+    "strokeRatio": null,
+    "minimumRatio": 12.24,
+    "threshold": 3,
+    "pixels": 31409,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-5",
+    "text": "Banked",
+    "backgroundRatio": 11.59,
+    "strokeRatio": null,
+    "minimumRatio": 11.59,
+    "threshold": 3,
+    "pixels": 778,
+    "pass": true
+  },
+  {
+    "capture": "contrast-1440-5",
+    "text": "Last orders are in. The coals go under ash, and tomorrow starts again with one match.",
+    "backgroundRatio": 15.47,
+    "strokeRatio": null,
+    "minimumRatio": 15.47,
+    "threshold": 4.5,
+    "pixels": 585,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-0",
+    "text": "NINE",
+    "backgroundRatio": 14.18,
+    "strokeRatio": null,
+    "minimumRatio": 14.18,
+    "threshold": 3,
+    "pixels": 6689,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-0",
+    "text": "COALS",
+    "backgroundRatio": 5.4,
+    "strokeRatio": null,
+    "minimumRatio": 5.4,
+    "threshold": 3,
+    "pixels": 8446,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-0",
+    "text": "No fire on Mondays. Lit again tomorrow at 15:00.",
+    "backgroundRatio": 10.61,
+    "strokeRatio": null,
+    "minimumRatio": 10.61,
+    "threshold": 4.5,
+    "pixels": 127,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-0",
+    "text": "An open-fire grill in Johannesburg.",
+    "backgroundRatio": 6.8,
+    "strokeRatio": null,
+    "minimumRatio": 6.8,
+    "threshold": 4.5,
+    "pixels": 603,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-0",
+    "text": "One wood fire,",
+    "backgroundRatio": 8.71,
+    "strokeRatio": null,
+    "minimumRatio": 8.71,
+    "threshold": 4.5,
+    "pixels": 245,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-0",
+    "text": "raked into nine beds.",
+    "backgroundRatio": 4.56,
+    "strokeRatio": null,
+    "minimumRatio": 4.56,
+    "threshold": 4.5,
+    "pixels": 300,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-1",
+    "text": "15:00",
+    "backgroundRatio": 8.95,
+    "strokeRatio": null,
+    "minimumRatio": 8.95,
+    "threshold": 3,
+    "pixels": 3644,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-1",
+    "text": "The match",
+    "backgroundRatio": 9.45,
+    "strokeRatio": null,
+    "minimumRatio": 9.45,
+    "threshold": 3,
+    "pixels": 896,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-1",
+    "text": "One match goes into a stack of sekelbos and kameeldoring. Nothing here is cooked on gas.",
+    "backgroundRatio": 12.14,
+    "strokeRatio": null,
+    "minimumRatio": 12.14,
+    "threshold": 4.5,
+    "pixels": 675,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-2",
+    "text": "16:30",
+    "backgroundRatio": 15.19,
+    "strokeRatio": null,
+    "minimumRatio": 15.19,
+    "threshold": 3,
+    "pixels": 3680,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-2",
+    "text": "The coals settle",
+    "backgroundRatio": 10.19,
+    "strokeRatio": null,
+    "minimumRatio": 10.19,
+    "threshold": 3,
+    "pixels": 1327,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-2",
+    "text": "Ninety minutes of waiting while the flames drop and the wood turns to coal, white at the edges.",
+    "backgroundRatio": 11.94,
+    "strokeRatio": null,
+    "minimumRatio": 11.94,
+    "threshold": 4.5,
+    "pixels": 655,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-3",
+    "text": "17:30",
+    "backgroundRatio": 6.87,
+    "strokeRatio": null,
+    "minimumRatio": 6.87,
+    "threshold": 3,
+    "pixels": 3265,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-3",
+    "text": "Nine beds",
+    "backgroundRatio": 12.84,
+    "strokeRatio": null,
+    "minimumRatio": 12.84,
+    "threshold": 3,
+    "pixels": 917,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-3",
+    "text": "The pitmaster rakes the fire into nine beds, from white-hot under the steaks to a low glow under the desserts.",
+    "backgroundRatio": 14.21,
+    "strokeRatio": null,
+    "minimumRatio": 14.21,
+    "threshold": 4.5,
+    "pixels": 753,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-4",
+    "text": "19:00",
+    "backgroundRatio": 5.69,
+    "strokeRatio": null,
+    "minimumRatio": 5.69,
+    "threshold": 3,
+    "pixels": 3738,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-4",
+    "text": "Service",
+    "backgroundRatio": 11.19,
+    "strokeRatio": null,
+    "minimumRatio": 11.19,
+    "threshold": 3,
+    "pixels": 673,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-4",
+    "text": "The grill at full roar. Every dish goes on the bed that suits it, and comes off when the coals say so.",
+    "backgroundRatio": 12.08,
+    "strokeRatio": null,
+    "minimumRatio": 12.08,
+    "threshold": 4.5,
+    "pixels": 652,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-5",
+    "text": "23:30",
+    "backgroundRatio": 9.14,
+    "strokeRatio": null,
+    "minimumRatio": 9.14,
+    "threshold": 3,
+    "pixels": 4108,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-5",
+    "text": "Banked",
+    "backgroundRatio": 10.42,
+    "strokeRatio": null,
+    "minimumRatio": 10.42,
+    "threshold": 3,
+    "pixels": 782,
+    "pass": true
+  },
+  {
+    "capture": "contrast-390-5",
+    "text": "Last orders are in. The coals go under ash, and tomorrow starts again with one match.",
+    "backgroundRatio": 11.29,
+    "strokeRatio": null,
+    "minimumRatio": 11.29,
+    "threshold": 4.5,
+    "pixels": 605,
+    "pass": true
+  }
+]
