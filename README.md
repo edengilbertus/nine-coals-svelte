@@ -20,6 +20,8 @@ bun run build
 bun run preview --port 4179 --strictPort
 ```
 
+The production build targets Vercel. Link and run it locally with `vercel link` and `vercel dev` if the SvelteKit preview server is unavailable.
+
 ## Pages
 
 Home, menu, story, gallery, events, contact, table reservations, pickup order and photo credits are separate SvelteKit routes. Deep links, category anchors and browser history work without a custom client-side router.

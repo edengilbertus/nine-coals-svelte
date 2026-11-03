@@ -9,6 +9,7 @@ test-results/
 playwright-report/
 .superpowers/
 .agents/
+.vercel/
 coverage/
 static/fonts/clash-display-*.woff2
 static/fonts/general-sans-*.woff2
